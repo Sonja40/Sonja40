@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sonja40
+- 👋 Hi, I’m @Sonja
 - 👀 I’m interested in Coding actually
 - 🌱 I’m currently learning Javascript and CSS at SheCodes.io
 - 💞️ I’m looking to collaborate on something for beginner to elaborate my Skills
